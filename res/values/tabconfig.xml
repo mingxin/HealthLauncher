@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabitems">
+        
+        <item>{
+            title:"com.png",
+            index:0
+            }
+        </item>
+        
+        <item>{
+            title:"enter.png",
+            index:1
+            }
+        </item>
+        
+        <item>{
+            title:"treat.png",
+            index:2
+            }
+        </item>
+        
+        <item>{
+            title:"nur.png",
+            index:3
+            }
+        </item>
+        
+        <item>{
+            title:"app.png",
+            index:4
+            }
+        </item>
+       	
+    </string-array>
+</resources>

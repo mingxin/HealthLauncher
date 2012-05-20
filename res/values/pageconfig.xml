@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="pub">
+         <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"com.winon.health.report",classpath:"com.winon.health.report.ui.MainActivity",image:"2.png",actionType:"0"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"4.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"5.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+    </string-array>
+    
+    <string-array name="fun">
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"4.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"5.png",actionType:"2"}</item>
+    </string-array>
+    
+    <string-array name="med">
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"4.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"5.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+    </string-array>
+    
+    <string-array name="nur">
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"4.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"5.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+    </string-array>
+    
+    <string-array name="app">
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"com.winon.health.report",classpath:"com.winon.health.report.ui.MainActivity",image:"2.png",actionType:"0"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"4.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"5.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"6.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"7.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"1.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"2.png",actionType:"2"}</item>
+        <item >{name:"XXX",packagepath:"xxxxxx",classpath:"xxxx",image:"3.png",actionType:"2"}</item>
+    </string-array>
+</resources>
